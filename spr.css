@@ -1,0 +1,22 @@
+header{
+    background-color: red;
+    height: 180px;
+    width: 100%;
+    float: left;
+}
+footer{
+    background-color: yellow;
+    clear:both;
+    height:180px;
+    width: 100%;
+    float: left;
+}
+#srodek {
+    background-color: bisque;
+    height: 400px;
+    width: 100%;
+    float: left;
+}
+*{
+    text-align: center;
+}
